@@ -28,5 +28,5 @@
 ## Core Focus Areas
 
 - **Clinical AI Evaluation & Failure-Mode Containment:** Blind external hold-out benchmarking, calibration/ECE checks, contradiction detection, and automated `BLOCK_DEPLOY` policy-as-code gates.
-- **Deterministic Guardrails & Regulatory Boundaries:** Practical application of **GDPR** (PHI confinement, quasi-identifier budgets), **EU AI Act**, and **EU MDR / MDCG 2019-11** intended-purpose boundaries in software design.
+- **Deterministic Guardrails, HL7 FHIR R4B & Regulatory Boundaries:** Practical application of **HL7 FHIR R4B** interoperability & hidden-vector scrubbing, **GDPR Art. 4(5) / Art. 9** (PHI confinement, ephemeral pseudonymization, quasi-identifier budgets), **EU AI Act**, and **EU MDR / MDCG 2019-11** intended-purpose boundaries in software design.
 - **Production Agentic Architecture:** **Google Cloud ADK**, **MCP**, **Cloud Run**, **IAP**, **Model Armor**, **OpenTelemetry**, structured `adk eval` trajectory/quality suites, and deterministic verification loops.
