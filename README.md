@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Souhail_Chafai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/souhail-chafai-8911b2403)
 
 > **Profile:** 5 years of medical studies (UMONS, Bachelor of Medicine 2023, hospital clinical rotations at CHU Helora Mons) combined with Google Cloud **Professional Agentic Architect** certification (Nov 2026).  
-> **Languages & Location:** French (native), English (fluent) · Belgium · Open to Brussels, Wallonia, France & EU Remote (available Dec 2026).  
+> **Languages & Location:** French (native), English (fluent) · Belgium · Open to Brussels, Wallonia, France, EU & Worldwide Remote (available Dec 2026).  
 > **Target Roles:** Medical Operations · Clinical AI Safety & Evaluation · Clinical Implementation / Deployment · Technical AI Product Management (Healthtech / EHR) · Healthcare GenAI Consulting.
 >
 > *Profil francophone (Belgique / France) : 5 ans d'études de médecine (UMONS) + architecte agentique certifié Google Cloud (nov. 2026), focalisé sur l'évaluation, les garde-fous déterministes et le déploiement d'IA en santé.*
